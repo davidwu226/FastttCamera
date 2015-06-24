@@ -7,34 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4AAF4DA31B3ADCCD00F4D527 /* AVCaptureDevice+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D4C1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.h */; };
+		4AAF4DA31B3ADCCD00F4D527 /* AVCaptureDevice+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D4C1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DA41B3ADCCD00F4D527 /* AVCaptureDevice+FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D4D1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.m */; };
 		4AAF4DA51B3ADCCD00F4D527 /* FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D4E1B3AD93500F4D527 /* FastttCamera.m */; };
-		4AAF4DA61B3ADCCD00F4D527 /* FastttCameraInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D4F1B3AD93500F4D527 /* FastttCameraInterface.h */; };
-		4AAF4DA71B3ADCCD00F4D527 /* FastttCameraTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D501B3AD93500F4D527 /* FastttCameraTypes.h */; };
-		4AAF4DA81B3ADCCD00F4D527 /* FastttCapturedImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D511B3AD93500F4D527 /* FastttCapturedImage.h */; };
+		4AAF4DA61B3ADCCD00F4D527 /* FastttCameraInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D4F1B3AD93500F4D527 /* FastttCameraInterface.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4AAF4DA71B3ADCCD00F4D527 /* FastttCameraTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D501B3AD93500F4D527 /* FastttCameraTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4AAF4DA81B3ADCCD00F4D527 /* FastttCapturedImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D511B3AD93500F4D527 /* FastttCapturedImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DA91B3ADCCD00F4D527 /* FastttCapturedImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D521B3AD93500F4D527 /* FastttCapturedImage.m */; };
-		4AAF4DAA1B3ADCCD00F4D527 /* FastttCapturedImage+Process.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D531B3AD93500F4D527 /* FastttCapturedImage+Process.h */; };
+		4AAF4DAA1B3ADCCD00F4D527 /* FastttCapturedImage+Process.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D531B3AD93500F4D527 /* FastttCapturedImage+Process.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DAB1B3ADCCD00F4D527 /* FastttCapturedImage+Process.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D541B3AD93500F4D527 /* FastttCapturedImage+Process.m */; };
-		4AAF4DAC1B3ADCCD00F4D527 /* FastttFocus.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D551B3AD93500F4D527 /* FastttFocus.h */; };
+		4AAF4DAC1B3ADCCD00F4D527 /* FastttFocus.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D551B3AD93500F4D527 /* FastttFocus.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DAD1B3ADCCD00F4D527 /* FastttFocus.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D561B3AD93500F4D527 /* FastttFocus.m */; };
-		4AAF4DAE1B3ADCD600F4D527 /* FastttEmptyFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D581B3AD93500F4D527 /* FastttEmptyFilter.h */; };
+		4AAF4DAE1B3ADCD600F4D527 /* FastttEmptyFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D581B3AD93500F4D527 /* FastttEmptyFilter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DAF1B3ADCD600F4D527 /* FastttEmptyFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D591B3AD93500F4D527 /* FastttEmptyFilter.m */; };
-		4AAF4DB01B3ADCD600F4D527 /* FastttFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D5A1B3AD93500F4D527 /* FastttFilter.h */; };
+		4AAF4DB01B3ADCD600F4D527 /* FastttFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D5A1B3AD93500F4D527 /* FastttFilter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DB11B3ADCD600F4D527 /* FastttFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D5B1B3AD93500F4D527 /* FastttFilter.m */; };
-		4AAF4DB21B3ADCD600F4D527 /* FastttFilterCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D5C1B3AD93500F4D527 /* FastttFilterCamera.h */; };
+		4AAF4DB21B3ADCD600F4D527 /* FastttFilterCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D5C1B3AD93500F4D527 /* FastttFilterCamera.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DB31B3ADCD600F4D527 /* FastttFilterCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D5D1B3AD93500F4D527 /* FastttFilterCamera.m */; };
-		4AAF4DB41B3ADCD600F4D527 /* FastttLookupFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D5E1B3AD93500F4D527 /* FastttLookupFilter.h */; };
+		4AAF4DB41B3ADCD600F4D527 /* FastttLookupFilter.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D5E1B3AD93500F4D527 /* FastttLookupFilter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DB51B3ADCD600F4D527 /* FastttLookupFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D5F1B3AD93500F4D527 /* FastttLookupFilter.m */; };
-		4AAF4DB61B3ADCD600F4D527 /* UIImage+FastttFilters.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D601B3AD93500F4D527 /* UIImage+FastttFilters.h */; };
+		4AAF4DB61B3ADCD600F4D527 /* UIImage+FastttFilters.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D601B3AD93500F4D527 /* UIImage+FastttFilters.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DB71B3ADCD600F4D527 /* UIImage+FastttFilters.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D611B3AD93500F4D527 /* UIImage+FastttFilters.m */; };
-		4AAF4DB81B3ADCDD00F4D527 /* IFTTTDeviceOrientation.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D621B3AD93500F4D527 /* IFTTTDeviceOrientation.h */; };
+		4AAF4DB81B3ADCDD00F4D527 /* IFTTTDeviceOrientation.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D621B3AD93500F4D527 /* IFTTTDeviceOrientation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DB91B3ADCDD00F4D527 /* IFTTTDeviceOrientation.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D631B3AD93500F4D527 /* IFTTTDeviceOrientation.m */; };
-		4AAF4DBA1B3ADCDD00F4D527 /* UIImage+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D641B3AD93500F4D527 /* UIImage+FastttCamera.h */; };
+		4AAF4DBA1B3ADCDD00F4D527 /* UIImage+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D641B3AD93500F4D527 /* UIImage+FastttCamera.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DBB1B3ADCDD00F4D527 /* UIImage+FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D651B3AD93500F4D527 /* UIImage+FastttCamera.m */; };
-		4AAF4DBC1B3ADCDD00F4D527 /* UIViewController+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D661B3AD93500F4D527 /* UIViewController+FastttCamera.h */; };
+		4AAF4DBC1B3ADCDD00F4D527 /* UIViewController+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D661B3AD93500F4D527 /* UIViewController+FastttCamera.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF4DBD1B3ADCDD00F4D527 /* UIViewController+FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D671B3AD93500F4D527 /* UIViewController+FastttCamera.m */; };
-		4AAF4DBE1B3ADCDD00F4D527 /* FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D351B3A686200F4D527 /* FastttCamera.h */; };
+		4AAF4DBE1B3ADCDD00F4D527 /* FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D351B3A686200F4D527 /* FastttCamera.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4AAF50E51B3B349700F4D527 /* FastttCameraFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF50E41B3B348600F4D527 /* FastttCameraFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
