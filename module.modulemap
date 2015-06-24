@@ -1,0 +1,6 @@
+framework module FastttCamera {
+  umbrella header "FastttCameraFramework.h"
+
+  export *
+  module * { export * }
+}

@@ -7,24 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4AAF4D361B3A686200F4D527 /* FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D351B3A686200F4D527 /* FastttCamera.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4AAF4D681B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D4C1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.h */; };
-		4AAF4D691B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D4D1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.m */; };
-		4AAF4D6A1B3AD93500F4D527 /* FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D4E1B3AD93500F4D527 /* FastttCamera.m */; };
-		4AAF4D6B1B3AD93500F4D527 /* FastttCameraInterface.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D4F1B3AD93500F4D527 /* FastttCameraInterface.h */; };
-		4AAF4D6C1B3AD93500F4D527 /* FastttCameraTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D501B3AD93500F4D527 /* FastttCameraTypes.h */; };
-		4AAF4D6D1B3AD93500F4D527 /* FastttCapturedImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D511B3AD93500F4D527 /* FastttCapturedImage.h */; };
-		4AAF4D6E1B3AD93500F4D527 /* FastttCapturedImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D521B3AD93500F4D527 /* FastttCapturedImage.m */; };
-		4AAF4D6F1B3AD93500F4D527 /* FastttCapturedImage+Process.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D531B3AD93500F4D527 /* FastttCapturedImage+Process.h */; };
-		4AAF4D701B3AD93500F4D527 /* FastttCapturedImage+Process.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D541B3AD93500F4D527 /* FastttCapturedImage+Process.m */; };
-		4AAF4D711B3AD93500F4D527 /* FastttFocus.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D551B3AD93500F4D527 /* FastttFocus.h */; };
-		4AAF4D721B3AD93500F4D527 /* FastttFocus.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D561B3AD93500F4D527 /* FastttFocus.m */; };
-		4AAF4D7D1B3AD93500F4D527 /* IFTTTDeviceOrientation.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D621B3AD93500F4D527 /* IFTTTDeviceOrientation.h */; };
-		4AAF4D7E1B3AD93500F4D527 /* IFTTTDeviceOrientation.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D631B3AD93500F4D527 /* IFTTTDeviceOrientation.m */; };
-		4AAF4D7F1B3AD93500F4D527 /* UIImage+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D641B3AD93500F4D527 /* UIImage+FastttCamera.h */; };
-		4AAF4D801B3AD93500F4D527 /* UIImage+FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D651B3AD93500F4D527 /* UIImage+FastttCamera.m */; };
-		4AAF4D811B3AD93500F4D527 /* UIViewController+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D661B3AD93500F4D527 /* UIViewController+FastttCamera.h */; };
-		4AAF4D821B3AD93500F4D527 /* UIViewController+FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D671B3AD93500F4D527 /* UIViewController+FastttCamera.m */; };
 		4AAF4DA31B3ADCCD00F4D527 /* AVCaptureDevice+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D4C1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.h */; };
 		4AAF4DA41B3ADCCD00F4D527 /* AVCaptureDevice+FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D4D1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.m */; };
 		4AAF4DA51B3ADCCD00F4D527 /* FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D4E1B3AD93500F4D527 /* FastttCamera.m */; };
@@ -53,28 +35,10 @@
 		4AAF4DBC1B3ADCDD00F4D527 /* UIViewController+FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D661B3AD93500F4D527 /* UIViewController+FastttCamera.h */; };
 		4AAF4DBD1B3ADCDD00F4D527 /* UIViewController+FastttCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AAF4D671B3AD93500F4D527 /* UIViewController+FastttCamera.m */; };
 		4AAF4DBE1B3ADCDD00F4D527 /* FastttCamera.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF4D351B3A686200F4D527 /* FastttCamera.h */; };
-		4AAF50C41B3B136200F4D527 /* GPUImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AAF50C31B3B12F700F4D527 /* GPUImage.framework */; };
+		4AAF50E51B3B349700F4D527 /* FastttCameraFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = 4AAF50E41B3B348600F4D527 /* FastttCameraFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		4AAF50C01B3B12F700F4D527 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 4AAF50BA1B3B12F600F4D527 /* GPUImage.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = BCF1A33414DDB1EC00852800;
-			remoteInfo = GPUImage;
-		};
-		4AAF50C21B3B12F700F4D527 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 4AAF50BA1B3B12F600F4D527 /* GPUImage.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = BCE209E51943F20C002FEED8;
-			remoteInfo = GPUImageFramework;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		4AAF4D301B3A686200F4D527 /* FastttCamera.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FastttCamera.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AAF4D351B3A686200F4D527 /* FastttCamera.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FastttCamera.h; sourceTree = "<group>"; };
 		4AAF4D4C1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AVCaptureDevice+FastttCamera.h"; sourceTree = "<group>"; };
 		4AAF4D4D1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "AVCaptureDevice+FastttCamera.m"; sourceTree = "<group>"; };
@@ -105,22 +69,14 @@
 		4AAF4D671B3AD93500F4D527 /* UIViewController+FastttCamera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+FastttCamera.m"; sourceTree = "<group>"; };
 		4AAF4D831B3AD9FE00F4D527 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4AAF4D8A1B3ADC9500F4D527 /* FastttCamera.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FastttCamera.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4AAF50BA1B3B12F600F4D527 /* GPUImage.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = GPUImage.xcodeproj; path = ../GPUImage/framework/GPUImage.xcodeproj; sourceTree = "<group>"; };
+		4AAF50E41B3B348600F4D527 /* FastttCameraFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FastttCameraFramework.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4AAF4D2C1B3A686200F4D527 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		4AAF4D861B3ADC9500F4D527 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4AAF50C41B3B136200F4D527 /* GPUImage.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,7 +86,6 @@
 		4AAF4D261B3A686200F4D527 = {
 			isa = PBXGroup;
 			children = (
-				4AAF50BA1B3B12F600F4D527 /* GPUImage.xcodeproj */,
 				4AAF4D321B3A686200F4D527 /* FastttCamera */,
 				4AAF4D311B3A686200F4D527 /* Products */,
 			);
@@ -139,7 +94,6 @@
 		4AAF4D311B3A686200F4D527 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4AAF4D301B3A686200F4D527 /* FastttCamera.framework */,
 				4AAF4D8A1B3ADC9500F4D527 /* FastttCamera.framework */,
 			);
 			name = Products;
@@ -148,6 +102,7 @@
 		4AAF4D321B3A686200F4D527 /* FastttCamera */ = {
 			isa = PBXGroup;
 			children = (
+				4AAF50E41B3B348600F4D527 /* FastttCameraFramework.h */,
 				4AAF4D4C1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.h */,
 				4AAF4D4D1B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.m */,
 				4AAF4D4E1B3AD93500F4D527 /* FastttCamera.m */,
@@ -197,43 +152,18 @@
 			path = Filters;
 			sourceTree = "<group>";
 		};
-		4AAF50BB1B3B12F600F4D527 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				4AAF50C11B3B12F700F4D527 /* libGPUImage.a */,
-				4AAF50C31B3B12F700F4D527 /* GPUImage.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		4AAF4D2D1B3A686200F4D527 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4AAF4D6F1B3AD93500F4D527 /* FastttCapturedImage+Process.h in Headers */,
-				4AAF4D6B1B3AD93500F4D527 /* FastttCameraInterface.h in Headers */,
-				4AAF4D6C1B3AD93500F4D527 /* FastttCameraTypes.h in Headers */,
-				4AAF4D361B3A686200F4D527 /* FastttCamera.h in Headers */,
-				4AAF4D7F1B3AD93500F4D527 /* UIImage+FastttCamera.h in Headers */,
-				4AAF4D811B3AD93500F4D527 /* UIViewController+FastttCamera.h in Headers */,
-				4AAF4D7D1B3AD93500F4D527 /* IFTTTDeviceOrientation.h in Headers */,
-				4AAF4D681B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.h in Headers */,
-				4AAF4D6D1B3AD93500F4D527 /* FastttCapturedImage.h in Headers */,
-				4AAF4D711B3AD93500F4D527 /* FastttFocus.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		4AAF4D871B3ADC9500F4D527 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AAF50E51B3B349700F4D527 /* FastttCameraFramework.h in Headers */,
 				4AAF4DB41B3ADCD600F4D527 /* FastttLookupFilter.h in Headers */,
 				4AAF4DBA1B3ADCDD00F4D527 /* UIImage+FastttCamera.h in Headers */,
-				4AAF4DB01B3ADCD600F4D527 /* FastttFilter.h in Headers */,
 				4AAF4DBE1B3ADCDD00F4D527 /* FastttCamera.h in Headers */,
+				4AAF4DB01B3ADCD600F4D527 /* FastttFilter.h in Headers */,
 				4AAF4DA81B3ADCCD00F4D527 /* FastttCapturedImage.h in Headers */,
 				4AAF4DA31B3ADCCD00F4D527 /* AVCaptureDevice+FastttCamera.h in Headers */,
 				4AAF4DB61B3ADCD600F4D527 /* UIImage+FastttFilters.h in Headers */,
@@ -251,27 +181,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		4AAF4D2F1B3A686200F4D527 /* FastttCamera */ = {
+		4AAF4D891B3ADC9500F4D527 /* FastttCamera */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4AAF4D461B3A686200F4D527 /* Build configuration list for PBXNativeTarget "FastttCamera" */;
-			buildPhases = (
-				4AAF4D2B1B3A686200F4D527 /* Sources */,
-				4AAF4D2C1B3A686200F4D527 /* Frameworks */,
-				4AAF4D2D1B3A686200F4D527 /* Headers */,
-				4AAF4D2E1B3A686200F4D527 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = FastttCamera;
-			productName = FastttCamera;
-			productReference = 4AAF4D301B3A686200F4D527 /* FastttCamera.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		4AAF4D891B3ADC9500F4D527 /* FastttCameraFilter */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 4AAF4D9D1B3ADC9600F4D527 /* Build configuration list for PBXNativeTarget "FastttCameraFilter" */;
+			buildConfigurationList = 4AAF4D9D1B3ADC9600F4D527 /* Build configuration list for PBXNativeTarget "FastttCamera" */;
 			buildPhases = (
 				4AAF4D851B3ADC9500F4D527 /* Sources */,
 				4AAF4D861B3ADC9500F4D527 /* Frameworks */,
@@ -282,7 +194,7 @@
 			);
 			dependencies = (
 			);
-			name = FastttCameraFilter;
+			name = FastttCamera;
 			productName = FastttCameraFilter;
 			productReference = 4AAF4D8A1B3ADC9500F4D527 /* FastttCamera.framework */;
 			productType = "com.apple.product-type.framework";
@@ -296,9 +208,6 @@
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Food Research";
 				TargetAttributes = {
-					4AAF4D2F1B3A686200F4D527 = {
-						CreatedOnToolsVersion = 6.3.2;
-					};
 					4AAF4D891B3ADC9500F4D527 = {
 						CreatedOnToolsVersion = 6.3.2;
 					};
@@ -314,45 +223,14 @@
 			mainGroup = 4AAF4D261B3A686200F4D527;
 			productRefGroup = 4AAF4D311B3A686200F4D527 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 4AAF50BB1B3B12F600F4D527 /* Products */;
-					ProjectRef = 4AAF50BA1B3B12F600F4D527 /* GPUImage.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
-				4AAF4D2F1B3A686200F4D527 /* FastttCamera */,
-				4AAF4D891B3ADC9500F4D527 /* FastttCameraFilter */,
+				4AAF4D891B3ADC9500F4D527 /* FastttCamera */,
 			);
 		};
 /* End PBXProject section */
 
-/* Begin PBXReferenceProxy section */
-		4AAF50C11B3B12F700F4D527 /* libGPUImage.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libGPUImage.a;
-			remoteRef = 4AAF50C01B3B12F700F4D527 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		4AAF50C31B3B12F700F4D527 /* GPUImage.framework */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.framework;
-			path = GPUImage.framework;
-			remoteRef = 4AAF50C21B3B12F700F4D527 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
-
 /* Begin PBXResourcesBuildPhase section */
-		4AAF4D2E1B3A686200F4D527 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		4AAF4D881B3ADC9500F4D527 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -363,21 +241,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4AAF4D2B1B3A686200F4D527 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4AAF4D801B3AD93500F4D527 /* UIImage+FastttCamera.m in Sources */,
-				4AAF4D6A1B3AD93500F4D527 /* FastttCamera.m in Sources */,
-				4AAF4D721B3AD93500F4D527 /* FastttFocus.m in Sources */,
-				4AAF4D691B3AD93500F4D527 /* AVCaptureDevice+FastttCamera.m in Sources */,
-				4AAF4D6E1B3AD93500F4D527 /* FastttCapturedImage.m in Sources */,
-				4AAF4D821B3AD93500F4D527 /* UIViewController+FastttCamera.m in Sources */,
-				4AAF4D7E1B3AD93500F4D527 /* IFTTTDeviceOrientation.m in Sources */,
-				4AAF4D701B3AD93500F4D527 /* FastttCapturedImage+Process.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		4AAF4D851B3ADC9500F4D527 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -489,36 +352,6 @@
 			};
 			name = Release;
 		};
-		4AAF4D471B3A686200F4D527 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = FastttCamera/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		4AAF4D481B3A686200F4D527 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = FastttCamera/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
 		4AAF4D9E1B3ADC9600F4D527 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -535,6 +368,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/FastttCamera/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = module.modulemap;
 				PRODUCT_NAME = FastttCamera;
 				SKIP_INSTALL = YES;
 				USER_HEADER_SEARCH_PATHS = "";
@@ -553,6 +387,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/FastttCamera/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = module.modulemap;
 				PRODUCT_NAME = FastttCamera;
 				SKIP_INSTALL = YES;
 				USER_HEADER_SEARCH_PATHS = "";
@@ -571,16 +406,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4AAF4D461B3A686200F4D527 /* Build configuration list for PBXNativeTarget "FastttCamera" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				4AAF4D471B3A686200F4D527 /* Debug */,
-				4AAF4D481B3A686200F4D527 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		4AAF4D9D1B3ADC9600F4D527 /* Build configuration list for PBXNativeTarget "FastttCameraFilter" */ = {
+		4AAF4D9D1B3ADC9600F4D527 /* Build configuration list for PBXNativeTarget "FastttCamera" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4AAF4D9E1B3ADC9600F4D527 /* Debug */,
