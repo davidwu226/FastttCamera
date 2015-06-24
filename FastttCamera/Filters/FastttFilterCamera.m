@@ -7,7 +7,7 @@
 //
 
 #import <AVFoundation/AVFoundation.h>
-#import "GPUImage.h"
+#import <GPUImage/GPUImageFramework.h>
 #import "FastttFilterCamera.h"
 #import "IFTTTDeviceOrientation.h"
 #import "UIImage+FastttCamera.h"
